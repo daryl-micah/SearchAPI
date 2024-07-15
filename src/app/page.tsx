@@ -37,7 +37,7 @@ export default function Home() {
       <div className="flex flex-col gap-6 items-center pt-32 duration-500 animate-in animate fade-in-5 slide-in-from-bottom-2.5">
         <h1 className="text-5xl tracking-tight font-bold">SearchAPI⚡</h1>
         <p className="text-zinc-600 text-lg max-w-prose text-center">
-          A high performance API built with Hono, Next.js and Cloudware.
+          A high performance API built with Hono, Next.js and Cloudfare.
           <br /> Type a query to get results in milliseconds!
         </p>
         <div className="max-w-md w-full">

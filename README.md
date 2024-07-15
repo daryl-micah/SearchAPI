@@ -8,4 +8,4 @@ Deployed using
 
 To fetch results in milliseconds using this approach
 
-![app ss](image.png)
+![app ss](image-2.png)

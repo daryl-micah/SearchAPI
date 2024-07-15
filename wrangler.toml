@@ -1,0 +1,6 @@
+name = "searchapi"
+compatibility_date = "15-07-2024"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN="Aa4rAAIncDE3MjM3MGY4N2I1ODM0ZDNkYWVjYWFlNTljYTZjMGI2N3AxNDQ1ODc"
+UPSTASH_REDIS_REST_URL=https://innocent-jay-44587.upstash.io
