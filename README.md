@@ -1,7 +1,5 @@
 #**This a high performance API I built using**#
-> Next.js
-> Hono
-> Upstash/Redis
+> Next.js > Hono > Upstash/Redis
 
 #**Deployed using**#
 > Cloudfare Workers
