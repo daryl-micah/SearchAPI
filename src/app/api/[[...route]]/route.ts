@@ -12,7 +12,9 @@ type EnvConfig = {
   UPSTASH_REDIS_REST_TOKEN: string;
   UPSTASH_REDIS_REST_URL: string;
 };
+
 app.use("/*", cors());
+
 app.get("/search", async (c) => {
   const { UPSTASH_REDIS_REST_TOKEN, UPSTASH_REDIS_REST_URL } =
     env<EnvConfig>(c);
