@@ -1,7 +1,7 @@
-#**This a high performance API I built using**#
+#**This a high performance API I built using**
 > Next.js > Hono > Upstash/Redis
 
-#**Deployed using**#
+#**Deployed using**
 > Cloudfare Workers
 
 _To fetch results in milliseconds using this approach_
