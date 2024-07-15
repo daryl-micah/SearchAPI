@@ -1,11 +1,11 @@
-This a high performance API I built using
--> Next.js
--> Hono
--> Upstash/Redis
+#**This a high performance API I built using**#
+> Next.js
+> Hono
+> Upstash/Redis
 
-Deployed using
--> Cloudfare Workers
+#**Deployed using**#
+> Cloudfare Workers
 
-To fetch results in milliseconds using this approach
+_To fetch results in milliseconds using this approach_
 
 ![app ss](image-2.png)
