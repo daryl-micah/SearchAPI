@@ -1,4 +1,4 @@
-# This a high performance API I built using
+# This a high performance API built using
 > Next.js > Hono > Upstash/Redis
 
 # Deployed using
